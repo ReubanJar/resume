@@ -43,17 +43,17 @@
   </tr>
 </table>
 
-## � Featured Weaponry & Projects
+## ⭐ Featured Weaponry & Projects
 
-### [�️ PenetraXploreAI: Automated Pentesting Assistant (FYP)](#)
+### [👾 PenetraXploreAI: Automated Pentesting Assistant (FYP)](#)
 > **Arsenal:** `Python` `Flask` `LLM` `Nmap` `Dirsearch` `Selenium` `SQLite`
 An **interactive, locally hosted AI assistant (Alex)** that initiates comprehensive penetration tests automatically. It centrally manages user data and dynamically generates technical and compliance reports post-scan.
 
-### [�️ Secure File Vault System](#)
+### [🔒 Secure File Vault System](#)
 > **Arsenal:** `Python` `Flask` `JavaScript` `SQL Server` `AES Encryption` `OAuth`
 A secure file management ecosystem equipped with **AES encryption/decryption**, real-time MYT activity logs, and group-based role permissions tied via Google OAuth.
 
-### [�️ URL Malware Detection System](#)
+### [🌐 URL Malware Detection System](#)
 > **Arsenal:** `Python` `Django` `TypeScript` `Machine Learning`
 Real-time URL scanning system analyzing patterns and deploying ML models to detect, report, and prevent sophisticated phishing and malware attacks.
 
@@ -79,7 +79,7 @@ AI-powered recruitment tool extracting and analyzing candidate data via NLP, wit
 * **Penetration Testing:** Executed authorized pentests (Evil Twin, brute force, SQL injections) in controlled environments (e.g. VulnHub).
 * **DoS Simulation:** Authored a highly-customized HTTP flood simulation script for rigorous Load and DoS stress-testing.
 
-## � Certifications
+## 📜 Certifications
 * 🛡️ **Penetration Testing Professional** - *Cybrary* 
 * ⚔️ **Offensive Penetration Testing** - *LinkedIn* 
 * 📡 **Elite Live SOC Module** - *Techforte*
