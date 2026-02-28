@@ -90,5 +90,5 @@ AI-powered recruitment tool extracting and analyzing candidate data via NLP, wit
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReubanJar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ReubanJar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
