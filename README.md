@@ -89,6 +89,3 @@ AI-powered recruitment tool extracting and analyzing candidate data via NLP, wit
 * **B.S. in Computer Science (Cybersecurity)** | *Asia Pacific University* (Nov 2022 – Nov 2025)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ReubanJar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
