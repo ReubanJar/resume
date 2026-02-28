@@ -2,11 +2,11 @@
   
 # ⚡ Reuban Raj Gunasegaran
 
-<a href="https://linkedin.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist+🛡%EF%B8%8F;Founder+%40+XploitDevMatrix+🚀;AI+%26+Full-Stack+Architect+🤖" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/reuban-raj-230168a9/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Cybersecurity%20Specialist;Founder%20%40%20XploitDevMatrix;AI%20%26%20Full-Stack%20Architect" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="mailto:markreuban25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/reuban-raj-230168a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.xploitdevmatrix.com"><img src="https://img.shields.io/badge/XploitDevMatrix-000000?style=for-the-badge&logo=code-igniter&logoColor=white" alt="Startup" /></a>
 </p>
 
